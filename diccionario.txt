@@ -1,5 +1,5 @@
 {
-  "diccionario_codigos_de_paises": {
+  "48 . Cod.País Exportador, 53 . Cod. país procedencia, 55 . Código de Bandera, Cod. país de origen, Cod. país compra, ": {
     "101": "Botswana",
     "105": "Brasil",
     "108": "Brunei Darussalam",
@@ -322,7 +322,7 @@
     "093": "Birmania (Myanmar)",
     "097": "Bolivia"
   },
-  "diccionario_cod_modo_transporte": {
+  "54 . Cod. Modo Transporte": {
     "1": "Marítimo",
     "2": "Férreo",
     "3": "Terrestre",
@@ -333,7 +333,7 @@
     "8": "Vías Navegables Interiores",
     "9": "Otro Modo De Transporte"
   },
-  "diccionario_cod_acuerdo": {
+  "67 . Cod. Acuerdo": {
     "101": "Comunidad Andina",
     "102": "Convenio Colombo Peruano",
     "103": "Acuerdo de Alcance Parcial con CARICOM",
@@ -531,7 +531,7 @@
     "XXX": "NO APLICA ACUERDO",
     "XX": "NO APLICA ACUERDO"
   },
-  "diccionario_forma_pago_importacion": {
+  "68 . Forma de pago de la importación": {
     "10": "Combinación de algunas de las anteriores formas de",
     "99": "Importación que no genera pago al exterior.",
     "01": "Giro directo.",
@@ -544,7 +544,7 @@
     "08": "Pagos anticipados.",
     "09": "Inversión extranjera directa."
   },
-  "diccionario_tipo_importacion": {
+  "69 . Tipo de importación": {
     "99": "Otras no reembolsables",
     "01": " Reembolsable.",
     " ": "No Reembolsable",
@@ -556,7 +556,7 @@
     "07": "Muestra experimental",
     "08": "Resto de muestras"
   },
-  "diccionario_cod_unidad_comercial": {
+  "76 . Cod. unidad comercial": {
     "BBL": "Barril petróleo",
     "CEN": "Centenar",
     "CM3": "Centímetro cúbico",
@@ -591,7 +591,7 @@
     "U": "Unidades",
     "LBR": "Libra"
   },
-  "diccionario_cod_registro_licencia": {
+  "85 . Código registro o licencia": {
     "R": "Registro de importación para mercancías sometidas a libre importación",
     "L": "Licencia previa para mercancías sometidas a esta restricción",
     "A": "Licencia anual para las importaciones al amparo de éstas (Utilizadas en los sectores mineros y petroleros).",
@@ -626,7 +626,7 @@
     "03": "Aduanas de Bogotá",
     "04": "Impuestos y Aduanas de Bucaramanga"
   },
-  "diccionario_cod_depto": {
+  "Cod. Depto destino": {
     "0": "más de una zona",
     "5": "Antioquia",
     "8": "Atlántico",
@@ -666,4 +666,5 @@
     "214": "Cota",
     "001": "Bogotá, D.C."
   }
+
 }
